@@ -186,7 +186,3 @@ python infer.py
 2. [train/train.py](./train/train.py)
 3. [eval/infer.py](./eval/infer.py)
 4. [docs/release_notes.md](./docs/release_notes.md)
-
-## 反馈与贡献
-
-如启用 GitHub Issues，建议将复现问题、文档问题和结果口径问题分开提交，并在问题描述中提供运行环境、数据路径组织方式、关键环境变量和完整报错日志。涉及比赛平台账号、私有路径或未公开数据的信息不应提交到公开 issue。
